@@ -1,0 +1,6 @@
+C:\Users\Wesber\source\repos\HW1\HW1\x64\Debug\HW1.vcxproj.AssemblyReference.cache
+C:\Users\Wesber\source\repos\HW1\HW1\x64\Debug\HW1.MyForm.resources
+C:\Users\Wesber\source\repos\HW1\HW1\x64\Debug\HW1.vcxproj.GenerateResource.cache
+C:\Users\zackc\source\repos\HW1\HW1\HW1\x64\Debug\HW1.vcxproj.AssemblyReference.cache
+C:\Users\zackc\source\repos\HW1\HW1\HW1\x64\Debug\HW1.MyForm.resources
+C:\Users\zackc\source\repos\HW1\HW1\HW1\x64\Debug\HW1.vcxproj.GenerateResource.cache

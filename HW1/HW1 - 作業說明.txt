@@ -1,0 +1,7 @@
+HW1 - 作業說明 - 111701026
+
+1. 圖表另以excel檔及圖片說明
+2. 排序新增quick sort以及merge sort
+3. 使用echo print讓使用者能看出所有數據
+4. Choose的核取方塊提供範圍選擇的功能
+5. "Correct?"將會告知使用者排序結果是否正確

@@ -1,0 +1,22 @@
+﻿  MyForm.cpp
+C:\Users\zackc\source\repos\HW1\HW1\MyForm.h(741,9): warning C4101: 'j': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW1\HW1\MyForm.h(760,9): warning C4101: 'j': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW1\HW1\MyForm.h(778,20): warning C4101: 'r': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW1\HW1\MyForm.h(810,9): warning C4101: 'j': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW1\HW1\MyForm.h(829,14): warning C4101: 'Y2': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW1\HW1\MyForm.h(859,9): warning C4101: 'j': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW1\HW1\MyForm.h(729,1): warning C4700: 使用了未初始化的區域變數 's'
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  HW1.vcxproj -> C:\Users\zackc\source\repos\HW1\HW1\x64\Debug\HW1.exe
