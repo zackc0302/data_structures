@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\zackc\source\repos\HW4\HW4\MyForm.h(442,11): warning C4101: 'j': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW4\HW4\MyForm.h(523,16): warning C4101: 'x': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在產生程式碼...
+C:\Users\zackc\source\repos\HW4\HW4\MyForm.h(412,1): warning C4715: 'HW4::MyForm::pop': 不是所有控制路徑都傳回值
+C:\Users\zackc\source\repos\HW4\HW4\MyForm.h(421,1): warning C4715: 'HW4::MyForm::p': 不是所有控制路徑都傳回值
+C:\Users\zackc\source\repos\HW4\HW4\MyForm.h(430,1): warning C4715: 'HW4::MyForm::q': 不是所有控制路徑都傳回值
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  HW4.vcxproj -> C:\Users\zackc\source\repos\HW4\x64\Debug\HW4.exe

@@ -1,0 +1,3 @@
+C:\Users\zackc\source\repos\HW5\HW5\x64\Debug\HW5.vcxproj.AssemblyReference.cache
+C:\Users\zackc\source\repos\HW5\HW5\x64\Debug\HW5.MyForm.resources
+C:\Users\zackc\source\repos\HW5\HW5\x64\Debug\HW5.vcxproj.GenerateResource.cache
