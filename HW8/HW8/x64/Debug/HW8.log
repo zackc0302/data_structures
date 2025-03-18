@@ -1,0 +1,16 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\zackc\source\repos\HW8\Form1.h(21,20): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\zackc\source\repos\HW8\Form1.h(58,34): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\zackc\source\repos\HW8\Form1.h(141,8): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\zackc\source\repos\HW8\Form1.h(179,14): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\zackc\source\repos\HW8\Form1.h(215,8): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\zackc\source\repos\HW8\Form1.h(923,13): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\zackc\source\repos\HW8\Form1.h(1074,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\zackc\source\repos\HW8\Form1.h(1121,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(276,61): warning C4267: '正在初始化': 將 'size_t' 轉換為 '_Ty2'，資料可能遺失
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(276,61): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(276,61): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(276,61): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(276,61): warning C4267:         ]
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  HW8.vcxproj -> C:\Users\zackc\source\repos\HW8\x64\Debug\HW8.exe
