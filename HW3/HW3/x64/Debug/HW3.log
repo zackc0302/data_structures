@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\zackc\source\repos\HW3\HW3\MyForm.h(662,48): warning C4566: 由通用字元名稱 '\U0001F42D' 表示的字元，無法在目前的字碼頁中表示 (950)
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW3\HW3\MyForm.h(741,21): warning C4101: 'e': 未參考的區域變數
+  (編譯來源檔案 'MyForm.cpp')
+  
+C:\Users\zackc\source\repos\HW3\HW3\MyForm.h(45,1): warning C4715: 'pop': 不是所有控制路徑都傳回值
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  HW3.vcxproj -> C:\Users\zackc\source\repos\HW3\x64\Debug\HW3.exe
