@@ -1,0 +1,9 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\zackc\source\repos\bonus3\bonus3\Form1.h(321,10): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\zackc\source\repos\bonus3\bonus3\Form1.h(398,35): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  bonus3.vcxproj -> C:\Users\zackc\source\repos\bonus3\x64\Debug\bonus3.exe
