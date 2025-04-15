@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\zackc\source\repos\bonus2\MyForm.h(396,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 'MyForm.cpp')
+  
+  MyForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  bonus2.vcxproj -> C:\Users\zackc\source\repos\bonus2\x64\Debug\bonus2.exe
