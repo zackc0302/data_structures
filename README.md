@@ -1,4 +1,4 @@
-# data_structures
+# Data Structures
 
 This repository records the homeworks and projects of the DS lecture.
 
