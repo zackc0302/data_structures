@@ -1,6 +1,7 @@
 # data_structures
 
 This repository records the homeworks and projects of the DS lecture.
+**All of the files have the pdf file displaying the results of the projects**
 
 - [HW1-Selection Sort, Bubble Sort and Binary Search](./HW1)
 - [HW2-Magic Square](./HW2)
