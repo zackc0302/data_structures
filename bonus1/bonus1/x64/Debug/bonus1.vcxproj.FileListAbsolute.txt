@@ -1,0 +1,3 @@
+C:\Users\zackc\source\repos\bonus1\bonus1\x64\Debug\bonus1.vcxproj.AssemblyReference.cache
+C:\Users\zackc\source\repos\bonus1\bonus1\x64\Debug\bonus1.Form1.resources
+C:\Users\zackc\source\repos\bonus1\bonus1\x64\Debug\bonus1.vcxproj.GenerateResource.cache
