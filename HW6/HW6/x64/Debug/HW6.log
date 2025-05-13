@@ -1,0 +1,9 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\zackc\source\repos\HW6\HW6\Form1.h(643,16): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\zackc\source\repos\HW6\HW6\Form1.h(860,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  HW6.vcxproj -> C:\Users\zackc\source\repos\HW6\x64\Debug\HW6.exe
