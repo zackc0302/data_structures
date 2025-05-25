@@ -1,0 +1,6 @@
+C:\Users\zackc\source\repos\HW7_111701026\HW7_111701026\x64\Debug\HW7_111701026.vcxproj.AssemblyReference.cache
+C:\Users\zackc\source\repos\HW7_111701026\HW7_111701026\x64\Debug\HW7_111701026.Form1.resources
+C:\Users\zackc\source\repos\HW7_111701026\HW7_111701026\x64\Debug\HW7_111701026.vcxproj.GenerateResource.cache
+C:\Users\zackc\source\repos\HW7\HW7_111701026\x64\Debug\HW7_111701026.vcxproj.AssemblyReference.cache
+C:\Users\zackc\source\repos\HW7\HW7_111701026\x64\Debug\HW7_111701026.Form1.resources
+C:\Users\zackc\source\repos\HW7\HW7_111701026\x64\Debug\HW7_111701026.vcxproj.GenerateResource.cache
